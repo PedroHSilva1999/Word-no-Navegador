@@ -1,12 +1,16 @@
 # Word no Navegador
 1. Tela Inicial
-![image](https://github.com/PedroHSilva1999/Word-no-Navegador/assets/88673304/c44748a0-d776-48f9-a70c-2ac49c4b386f)
+![image](https://github.com/PedroHSilva1999/Word-no-Navegador/assets/88673304/a6c5b68b-a457-440e-bfe0-8dbb0a666a94)
 
+ 
 2. Cadastrar um documento.
-![image](https://github.com/PedroHSilva1999/Word-no-Navegador/assets/88673304/5a52ec7d-ddbd-4a59-9ca8-2ed31102e9b1)
+![image](https://github.com/PedroHSilva1999/Word-no-Navegador/assets/88673304/33690512-7699-4457-99f9-9e9ef4a99edd)
+
 
 3. Documento fica salvo ao ser criado.
-![image](https://github.com/PedroHSilva1999/Word-no-Navegador/assets/88673304/269aa4cd-3b44-4f9c-8bdc-28eb00a67a8b)
+![image](https://github.com/PedroHSilva1999/Word-no-Navegador/assets/88673304/809fb061-6ac1-4689-8223-c98c3cc4eb58)
 
-4. Editar ou Remover documento.
-![image](https://github.com/PedroHSilva1999/Word-no-Navegador/assets/88673304/9646eb8a-7ef2-44b0-bdb3-f8db0aaab048)
+
+4. Editar ou Remover o documento.
+![image](https://github.com/PedroHSilva1999/Word-no-Navegador/assets/88673304/706cf660-649f-4ba7-9430-758bf0a495e6)
+
