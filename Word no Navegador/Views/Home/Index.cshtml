@@ -24,11 +24,13 @@
                 <div>
                     <span> <span style="font-weight:bold">Criação: </span> @documento.dataCriacao.ToString("dd/MM/yyyy")</span>
                     <a  class="d-flex justify-content-center align-items-center"
-                       style="width:150px; height:200px; background-color:dimgray; margin-bottom:70px; text-decoration:none; color:white;font-size:120px"
+                       style="width:150px; height:200px; background-color:dimgray; margin-bottom:20px; text-decoration:none; color:white;font-size:120px"
                        asp-action="Editar" asp-route-id="@documento.ID"
                     >
                         <i class="bi bi-file-earmark"></i>
                         </a>
+                    <span> <span style="font-weight:bold">Titulo: </span> @documento.Titulo</span>
+                    <br />
                     <span> <span style="font-weight:bold">Atualização: </span> @documento.DataAtualizacao.ToString("dd/MM/yyyy")</span>
                 </div>
             </div>
